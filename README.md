@@ -1,7 +1,7 @@
 ## **ABOUT ME**
 ### I gather key insights from complex data and develop machine learning models for solving business problems.
 
-## **My Latest Projects**
+## **MY LATEST PROJECTS**
 ## [Project 1: House Pricing Analysis in Canada](pythoncode/HousePricing.html)
 
 - Created a python code using Jupiter lab in Anaconda Navigator to analyze the fluctuations in the price of houses in a Canadian neighborhood based on various attributes.
