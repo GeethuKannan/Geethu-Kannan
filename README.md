@@ -1,6 +1,6 @@
-## I am Geethu Kannan
+# I am Geethu Kannan
 
-# Listed below are the projects that I have got an opportunity to work in and improve my skillset.
+## Listed below are the projects that I have got an opportunity to work in and improve my skillset.
 ### Using various regression models and algorithms to gather key insights from complex data is one of my most valued skills that keeps customers coming back for more.
 
 ## [Project 1: House Pricing Analysis in Canada](pythoncode/HousePricing.html)
@@ -12,37 +12,27 @@ This would help prospective clients looking to buy a house in Canada.
 
 
 
-[HousePricing]
-
 ##  [Project 2: Predictive Modeling approach to improve compressive strength of concrete](pythoncode/Cement.html)
 
 Created a Python code using Jupiter lab to develop a Multivariate Linear Regression Algorithm script to predict Concrete compressive strength (CMS).
 Derived useful insights with respect to concrete metrics and created efficient models to predict the value of CMS.
 This will help to understand the ratio of raw materials to be used for producing high quality cement with good strength.
 
-[Concrete Compressive Strength]
 
-## Project 3: Prediction of probability of death among heart patients
+
+## [Project 3: Prediction of probability of death among heart patients](pythoncode/Death_Event.html)
 
 Developed a logistic regression model to classify the deceased and alive patients during the follow-up period with an accuracy of 80%.
 The data worked upon was collected from the Centre for Disease Control (CDC).
 Provided recommendations to improve the model which can help doctors to better classify the death event among heart patients.
 
-[Death_Event](pythoncode/Death_Event.html)
 
-## Project 4: Data analysis of crime rates across different provinces in Canada
+## [Project 4: Data analysis of crime rates across different provinces in Canada](pythoncode/Project4_CrimeRateAnalysis.docx)
 
 Used Microsoft Power BI to create professional visualizations that help the RCMP (federal police) to understand crime rate distribution.
 Crime Data across different provinces was imported from Statistics Canada.
 Enabled future predictions of crime rate for next year for Manitoba, Ontario, and Quebec provinces. 
 
-[CrimeRate_Report](pythoncode/Project4_CrimeRateAnalysis.docx)
-
-
-
-You can use the [editor on GitHub](https://github.com/GeethuKannan/Portfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
