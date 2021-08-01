@@ -31,6 +31,8 @@ Used Microsoft Power BI to create professional visualizations that help the RCMP
 Crime Data across different provinces was imported from Statistics Canada.
 Enabled future predictions of crime rate for next year for Manitoba, Ontario, and Quebec provinces. 
 
+[CrimeRate_Report](pythoncode/Project4_CrimeRateAnalysis.docx)
+
 [Google](https://www.google.com/)
 
 You can use the [editor on GitHub](https://github.com/GeethuKannan/Portfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
