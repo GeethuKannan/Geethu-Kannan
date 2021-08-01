@@ -1,7 +1,7 @@
 # Geethu Kannan
 ### Data Analyst | Data Scientist
 
-## My Latest Projects
+## **My Latest Projects**
 ### Using various regression models and algorithms to gather key insights from complex data is one of my most valued skills that keeps customers coming back for more.
 
 ## [Project 1: House Pricing Analysis in Canada](pythoncode/HousePricing.html)
