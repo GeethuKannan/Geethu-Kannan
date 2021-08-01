@@ -1,6 +1,7 @@
-## **My Latest Projects**
-### Using various regression models and algorithms to gather key insights from complex data is one of my most valued skills that keeps customers coming back for more.
+## **ABOUT ME**
+### I gather key insights from complex data and develop machine learning models for solving business problems.
 
+## **My Latest Projects**
 ## [Project 1: House Pricing Analysis in Canada](pythoncode/HousePricing.html)
 
 - Created a python code using Jupiter lab in Anaconda Navigator to analyze the fluctuations in the price of houses in a Canadian neighborhood based on various attributes.
