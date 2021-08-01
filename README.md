@@ -3,22 +3,24 @@
 # Listed below are the projects that I have got an opportunity to work in and improve my skillset.
 ### Using various regression models and algorithms to gather key insights from complex data is one of my most valued skills that keeps customers coming back for more.
 
-## Project 1: House Pricing Analysis in Canada
+## [Project 1: House Pricing Analysis in Canada](pythoncode/HousePricing.html)
 
 Created a python code using Jupiter lab in Anaconda Navigator to analyze the fluctuations in the price of houses in a Canadian neighborhood based on various attributes.
 Collected data from Canada housing website for analysis.
 Gathered key insights to identify patterns which attribute to the high and low cost of houses.
 This would help prospective clients looking to buy a house in Canada.
 
-[HousePricing](pythoncode/HousePricing.html)
 
-##  Project 2: Predictive Modeling approach to improve compressive strength of concrete
+
+[HousePricing]
+
+##  [Project 2: Predictive Modeling approach to improve compressive strength of concrete](pythoncode/Cement.html)
 
 Created a Python code using Jupiter lab to develop a Multivariate Linear Regression Algorithm script to predict Concrete compressive strength (CMS).
 Derived useful insights with respect to concrete metrics and created efficient models to predict the value of CMS.
 This will help to understand the ratio of raw materials to be used for producing high quality cement with good strength.
 
-[Concrete Compressive Strength](pythoncode/Cement.html)
+[Concrete Compressive Strength]
 
 ## Project 3: Prediction of probability of death among heart patients
 
