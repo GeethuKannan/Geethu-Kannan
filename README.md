@@ -1,5 +1,6 @@
-# I am Geethu Kannan
-
+### I am 
+# Geethu Kannan
+### Data Analyst | Data Scientist
 ## My Latest Projects
 ### Using various regression models and algorithms to gather key insights from complex data is one of my most valued skills that keeps customers coming back for more.
 
