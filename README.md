@@ -1,4 +1,4 @@
-# Geethu Kannan
+# **Geethu Kannan**
 ### Data Analyst | Data Scientist
 
 ## **My Latest Projects**
