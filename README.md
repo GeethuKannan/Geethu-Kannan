@@ -36,7 +36,7 @@ Enabled future predictions of crime rate for next year for Manitoba, Ontario, an
 
 [CrimeRate_Report](pythoncode/Project4_CrimeRateAnalysis.docx)
 
-[Google](https://www.google.com/)
+
 
 You can use the [editor on GitHub](https://github.com/GeethuKannan/Portfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
