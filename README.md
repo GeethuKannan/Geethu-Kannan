@@ -9,7 +9,7 @@
 - Created a python code using Jupiter lab in Anaconda Navigator to analyze the fluctuations in the price of houses in a Canadian neighborhood based on various attributes.
 - Collected data from Canada housing website for analysis.
 - Gathered key insights to identify patterns which attribute to the high and low cost of houses.
-- This would help prospective clients looking to buy a house in Canada.
+- This would help prospective clients looking to buy a house in Canada. 
 
 
 
