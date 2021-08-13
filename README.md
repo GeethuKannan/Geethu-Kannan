@@ -1,6 +1,7 @@
 ## **ABOUT ME**
 ### I gather key insights from complex data and develop machine learning models for solving business problems.
 
+![](https://github.com/GeethuKannan/Geethu-Kannan/blob/main/Geethu_careerRoadMap.JPG)
 
 ## **MY LATEST PROJECTS**
 ## [Project 1: House Pricing Analysis in Canada](pythoncode/HousePricing.html)
